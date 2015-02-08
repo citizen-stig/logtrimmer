@@ -1,5 +1,5 @@
 # Log Trimmer
-Cuts parts of log files, based on timestamp. Uses binary search to efficiently find bounds.
+Cuts out parts of log files, based on timestamp. Uses binary search to efficiently find bounds.
 
 # Examples:
 Cut log with standard timestamp format.
